@@ -91,6 +91,6 @@ if __name__ == "__main__":
 #     print("この動画長さは{}秒です。".format(j))
 #     print('---------------------------------')
 #     jikan = j /i
-#     print("一つのシーンの平均時間は{}秒です。".format(jikan))
+print("一つのシーンの平均時間は{}秒です。".format(jikan))
 
 
